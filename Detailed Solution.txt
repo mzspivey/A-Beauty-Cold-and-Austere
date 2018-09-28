@@ -1,0 +1,467 @@
+Detailed Solution to Current Release of "A Beauty Cold and Austere," by Mike Spivey
+
+
+YOUR DORM ROOM
+
+Open the bottle and eat the pill.  If you read the bottle you'll see that the pill causes you to dream about things that you're in close proximity to.
+Get in the bed.  Make sure you're carrying your math book and nothing else.  Sleep.
+
+This will place you in a dream about the contents of the math book.  By the end of it you'll have learned enough mathematics to ace your final exam.
+You can WAKE UP at any time, though, to go take your math final.
+Your SCORE will tell you the grade you would earn if you were to WAKE UP and go take the final exam at that point.
+
+Even though the focus of your dream is the contents of your math book, some other things from your dorm room and the evening will make appearances in your dream as well.
+
+
+POINT/ONE/VOID
+
+The idea here is that you've got to create a number system before you can do any mathematics.  
+Get the wand (which is shaped like the number 1) from the void.  Examine it and note the sapphire gem that makes up the adder's eye.  Go to One, and wave the wand.  
+Then go up to create the positive axis.  Head back to the void, which is now "Form."  There are now exits in the four cardinal directions.
+
+
+FIRST LEVEL, INITIAL PASS (This describes all you can do in each area without having solved any puzzles in the other areas.)
+
+
+HOUSE OF WISDOM AREA
+
+White Ring: This should remind you of the wand, except that it's shaped like 0.  Also note the adder's sapphire eye.  Go to One and wear the ring.  The set is your carryall.  
+Go up to add zero to the positive axis.
+
+Square root: Try EXTRACT with the square root.  It only works in a space that is the manifestation of a particular number.
+Go to Two and EXTRACT.  Get the proof.  You don't have to understand it, but there's someone who will be very bothered by it.
+
+Balancing Scales: This is a physical manifestation of solving a system of three equations in three variables: x, y, and z.  
+The principle is that you must remove the same amount of weight from both pans of a scale on the same turn.  All the pebbles weigh the same.
+All the x blocks weigh the same, all the y blocks weigh the same, and all the z blocks weigh the same regardless of color.
+Isolate a single brown x block by removing pebbles from the bronze balance scale.  Then isolate a single gray y block, and then a single yellow z block.
+You can remove more than one pebble from a pan at the same time, such as GET TWO BROWN SAND PEBBLES AND TWO TAN PEBBLES. 
+Get the sapphire gem.
+
+Geometric designs: You won't be able to see what's hidden in these until your geometry score is high enough.
+
+
+LYCEUM AREA
+
+Euclid: Greet him.  He wants someone to prove or disprove his parallel postulate.  You need to find something with "parallel" lines that actually intersect.
+
+Achilles: You can't do anything for Achilles for a long time.  
+
+Private home: You can't enter this until your geometry score is high enough.
+
+Acolyte/Passageway in North Temple: The acolyte is a firm believer that everything is either an integer or the ratio of two integers. 
+You need to show her something that will be a shock to her beliefs, but you can't give it to her because she won't talk to you.
+
+
+ALEXANDRIA AREA
+
+Number Puzzle: Push 1, then flip the switch to remove larger multiples of a number.  Push 2, 3, 5, and 7.
+Since you've removed the multiples of all primes up to 10 (which is the square root of 100), you've solved the puzzle.  
+(You've just used a technique known as the sieve of Eratosthenes.)
+
+Globe: Look at the globe, then the meridians of longitude.  The meridians are parallel lines, in a sense, but they still intersect at the north and south poles.
+
+Gap: Didn't Archimedes say that if he had a lever long enough he could move the world?
+
+
+CASTLE AREA
+
+This is evoked by the sheets on your bed in your dorm room.
+
+Count: Greet him.  If you're really good with combinatorics you can figure out the answer to his question immediately.  
+For the vast majority of people, there are hints here and there.  One of them is the number triangle icon in the Chapel.
+
+Countess: Greet her.  You can't fix her mechanical calculator, but maybe you can find something else that will do multiplication quickly?
+
+
+FIRST LEVEL, SECOND PASS (This describes what you can do now that you've solved some of the puzzles on the first level.)
+
+By now "Form" should have turned into "Matter."  As you learn more mathematics this space becomes more solid and more comprehensible.
+This will happen at each level of the game - four levels total.
+
+
+LYCEUM AREA
+
+ACOLYTE: Drop the proof, and she'll pick it up and run away.  The passageway will become accessible.  Get everything in the inner sanctum.  
+
+Euclid: Go back to Euclid and tell him about the meridians.  He'll give you a copy of the Elements.
+
+Private Home: You should be able to enter the private home by now.
+There are a couple of hints as to who the private home belongs to, which hints at what needs to go on those pedestals in the courtyard.
+You won't have all the objects you need for the pedestals yet, though.
+
+Achilles: Try giving him the exhaustion sandals.  They're not enough... yet.
+
+
+HOUSE OF WISDOM AREA
+
+Geometric designs: If your geometry score is high enough you'll be able to see five buttons hidden in the designs.  Each button is defined by its number of sides:
+The circular button has one side, the parentheses button has two, and so on.  Read the formal note to see the button code.  You'll need to push the circular button twice,
+but the parentheses button won't be pushed at all.  
+
+Wooden chest: You have to expand (x+1)^4 in powers of x.  There has been a hint of Pascal's triangle (the number triangle icon in the castle chapel) before now, 
+so hopefully you would have looked up Pascal's triangle in the math book to find out that Pascal's triangle tells you what the coefficients are.  
+The expansion is 1x^4 + 4x^3 + 6x^2 + 4x + 1, so the settings for the dials are 1, 4, 6, 4, and 1, respectively.
+
+Get the cube and the Compendious Book.
+
+
+ALEXANDRIA AREA
+
+Gap: Put Archimedes's staff in the gap and push it.  This will pop the globe off the pedestal, and you can now get the tetrahedron.
+
+
+CASTLE AREA
+
+Count: The answer to his question is one of the numbers in Pascal's triangle.  With the entry on Pascal's triangle in the math book and the number icon in the chapel, you
+should be able to calculate the next couple of rows of Pascal's triangle to find the right number.  
+If you still can't get the answer then there is another hint on the next level.
+
+Countess: Still can't help her yet.
+
+
+SECOND LEVEL, INITIAL PASS
+
+Get the mirror.  If you look in it, you'll notice that it doesn't seem to work.  Examine it and you'll see that the adder is missing its sapphire eye.  Put the gem from the balance scales in the eye hole.  
+Now, go up to One and look in the mirror.  Go up to create the negative axis.  
+Stick something into the phase inverter and see that it adds Pi into the inserted object.
+Try EXTRACT with the square root while you're in Negative One.  The square root isn't powerful enough to take the square root of a negative number yet.
+
+
+GRASSY AREA
+
+Soccer Ball: You can't seem to pick it up, but what should you do with a soccer ball?  Kick it and get the resulting icosahedron.
+
+Trig Homework: There are two hints here. One is that adding Pi to the graphs of sine and cosine switches them from positive to negative.  This is called a phase shift.
+The other hint is to look up logarithms in the math book.  
+
+Slide Rule: If you look up logarithms in the math book while holding the slide rule you'll learn how to use it.
+
+Laundry Room: The only useful thing here is the dryer, and that's only for fixing the x-finder (from the third level) if you mess it up.
+
+
+CASINO
+
+This is evoked by the Vegas poster in your dorm room.
+
+Poker Game: Look at Pascal and take the piece of paper from his pocket.  The missing number is the answer to the Count's question.  
+You also need some money as a bet in order to play the game.
+
+Game Machine: First, figure out what the blue button does.  It keeps rejecting numbers until it finds one that is better than any number seen thus far.
+The game itself is an example of an optimal stopping problem.   
+The best strategy is to reject the first X numbers, and then accept the next one you see that is better than anything you've seen thus far.
+For a top-two optimal stopping problem, taking X to be anywhere between 22 and 39 gives you a better-than 50% chance of selecting one of the top two numbers. 
+(In fact, taking X to be anywhere from 12 to 56 gives you a better-than 40% chance.)  So, push the red button three times, then the blue button, and then the green button.
+If this doesn't work, play the game again until you win.  It shouldn't take too many tries to win.
+
+
+PHYSICIAN'S OFFICE
+
+Look at the instruments, and then look up Cardano for a hint as to what to do here.
+
+Mechanism: Turn the crank to see what the mechanism does.  Positive power, huh?  
+Open the access panel and get the sine wave.  Turn the crank without the sine wave in the mechanism.  The sine wave powers the mechanism.
+If you want negative power, you'd have to do something to the sine wave.
+
+Parchment and Piece of Metal: Your math book says that Cardano invented the Cardan grille, 
+a thin sheet of metal with holes in it that when placed over another paper reveals a hidden message.
+Put the piece of metal on the parchment to reveal a secret word.  Then say the secret word, and a niche will open.  Get Ars Magna.
+
+
+ZORK AREA (WEST OF WHITE HOUSE)
+
+This is evoked by the computer game poster in your dorm room.
+
+Mailbox: You can't open the mailbox yet.
+
+Front door: Examine the boards on the front door, and you'll see that they are rotting.  Remove them to be able to enter the living room.  
+
+Bookcase: Examine the bookcase.  This is where you can put those math books you've started to acquire (not your math textbook, though).
+
+
+SECOND LEVEL, SECOND PASS (and back to the first level and the number line)
+
+Eventually you'll see a gray lady, evoked by the librarian from the tutorial.
+Like the useless yogurt cup she throws away in the tutorial, she can tell you whether any objects you carry will still be useful to you.
+
+
+NUMBER LINE AREA
+
+Phase Inverter: The phase inverter adds Pi to objects.  The trig homework tells you that adding Pi to sine and cosine shifts their graphs from positive to negative.  
+Put the sine wave in the phase inverter to make it negative.
+
+
+CASTLE AREA (on first level)
+
+Count: The number he's looking for is 252.  He'll give you a valuable coin.  The coin counts as money.
+
+Countess: Give her the slide rule.  She'll be fascinated with it and will give you a copy of Diophantus's Arithmetica.
+
+If you go back through the Great Hall, you'll notice that the Count is now bored.  He wants something new to count, something of which there is a lot of.
+You won't have what he needs until near the end of the game, though.
+
+
+CASINO
+
+Poker Game: Put the coin on the table to play the poker game.  If you've won the Top Two game then your probability score is high enough for you to win the poker game.
+Otherwise, you'll have to go back to the Count for another coin.
+If you win the poker game, as you leave the table will turn into a dodecahedron.  You should have the five Platonic solids now.
+
+
+PHYSICIAN'S OFFICE
+
+Mechanism: Put the now-phase-inverted sine wave in the mechanism.  Turn the crank (make sure you've got the square root), and the square root absorbs negative power.
+Now you can go back to Negative One, EXTRACT, go up, and you've created the imaginary axis.
+
+
+LYCEUM AREA (on first level)
+
+Pedestals in the private home: This is Plato's home, from the "Let no one ignorant of geometry enter" saying on the doorway and the cave downstairs. 
+Each of the five Platonic solids goes on the pedestal whose top matches the shape and size of the solid's faces.  The cube goes on the square pedestal and
+the dodecahedron on the pentagonal pedestal.  Since the tetrahedron has four sides, its triangular faces must be largest, so it goes on the large triangular pedestal.
+Similarly, the octahedron goes on the medium triangular pedestal, and the icosahedron goes on the small triangular pedestal.  Get the sphere.
+
+
+THIRD LEVEL
+
+
+ROLLER COASTER AREA
+
+This is evoked by the amusement park poster in your dorm room.
+
+Read the brochure to find out how the roller coaster works.
+In particular, if you can find one of the special roller coaster cards with a different equation on it, you can change the shape of the roller coaster 
+by inserting the card into the slot.
+There's not much you can do here yet.  Ride the roller coaster for fun.  Get the saying and the correspondence.
+
+
+NEON-LIT ROOM
+
+This is supposed to evoke the game Tron, with its light cycles.  It's evoked by the movie poster in your dorm room.
+
+Comic: This is a silly way of saying that "Euler" is pronounced "Oiler," not "Yuler."  It also gives you a (probably oblique) hint for what you're supposed to do here.
+
+Bike: Ride it.  This will dump you into a maze where you have to create an Euler circuit.  This is a path that goes through every grid line exactly once and ends up back
+where you start.  Since every time you enter an intersection you must leave it, an Euler circuit is only possible in a grid in which every intersection has an even number of
+exits.  (Euler proved this, actually.)  This means that you have to use your one jump to go from an intersection with an odd number of exits to another intersection with
+an odd number of exits.  The grid is easy to map (it's only got eight intersections, laid out in a 3x3 pattern missing its northwest corner).
+If you make the jump right it's not hard to find a path that brings you back to the starting intersection.  You'll be rewarded with a text of Euler's.
+
+
+BARN
+
+Greet the farmer.  Note the card that he gives you, where it came from, and the fact that it's got an equation written on it.  
+There are a few actions that will trigger the farmer leaving and Pennings the dog appearing; one of them is attempting to leave the barn yourself.
+For fun, Pennings understands some standard dog commands.  For example, PENNINGS, FETCH.
+
+
+TRINITY COLLEGE
+
+Berkeley: Listen to his lecture and then take his notes afterward.
+
+Chapel/Statue/Light: Look at the shape of the light.  Put sphere in light, and you'll be transported to Newton.
+
+Newton: Greet Newton.  The answers to his first three questions can be found by looking up the topics in the math book.  
+The answers (You'll need to ANSWER the answer) are DERIVATIVE, SLOPE, and ZERO.
+The answer to the fourth question is MOUNTAIN.  Newton will give you the toy mountain range, which differentiates curves.  Where have you seen a curve? 
+Jump to return to Trinity College.
+
+
+ROLLER COASTER, REDUX
+
+Put the card in the slot in the Operator's Office to change the roller coaster track to the shape of the curve modeling the farmer's problem.
+The x-finder will tell you where the peak of the curve is, but the car moves too fast for you to notice it.
+Another option, thanks to the Q&A with Newton, is to find where the derivative of the farmer's problem curve is zero.
+Holding the toy mountain range, DERIVE to change the track to the curve for the derivative of the farmer's problem.
+Now go up to the roller coaster car.  The derivative curve will be zero when the car hits the water.
+The x-finder can tell us what that value is, but the roller coaster car is still moving too fast at that point to read the x-finder.
+Note that the x-finder has a waterproof film covering it.  
+If we remove the plastic film from the x-finder then it will get water-damaged when we hit the water, leaving the x-finder stuck at the solution to the farmer's problem.
+Do all of this and then ride the car, making sure that the x-finder is attached to the metal loop on the car.  
+(If you just carry the x-finder then the roller coaster feature that keeps things in the car dry will keep the x-finder dry, too.)
+If you mess up and get the x-finder wet while riding on the wrong curve, you can put it in the dryer and dry it.
+
+
+BARN, REDUX
+
+Go back to the barn and give the x-finder to Pennings.  He will bring it to the farmer, who is grateful.  
+Then return the toy mountain range to Newton (he asked you to do this), and he'll give you a copy of his Principia.
+
+
+FOURTH LEVEL, FIRST PASS (and back to first level)
+
+As you learn more mathematics, eventually you'll be able to see that the light in this space is coming from a copy of Gauss's Disquisitiones Arithmetica, 
+which you should take.
+
+
+MACHINE ROOM
+
+Play around here to understand how the machine works, but you can't use the path until you have something that can take limits.
+
+
+SMOKY PUB
+
+Greet Cauchy or Weierstrass.  Weierstrass wants something to work on to make his name.  If you look up Weierstrass in the math book you'll see that he's famous
+for helping put calculus on a solid theoretical foundation via his development of the limit concept.  Give him Berkeley's lecture notes to inspire him.
+Then give him the exhaustion sandals and receive the limit shoes in return.  Give Cauchy the square root. (You must have created the imaginary axis first.)
+He'll improve it so that you can use the square root in Imaginary Unit.
+
+Now that you have an improved square root, go back to Imaginary Unit and EXTRACT.  Get Riemann's dissertation.  Then go up, creating the complex plane.
+
+
+WINDOW INTO OBLIVION
+
+Put something on the tray.  Watch what happens.
+
+Look at the pile of objects several times.  What kinds of things are being consigned to Oblivion?
+
+Descartes: What is he doing here?  Read his correspondence and note the last line.  Also, review the saying you found in the Operator's Office.
+
+You can't do anything else here yet.
+
+
+RESEARCH LAB
+
+Fan: The breeze from the fan is pretty strong, and the fan is in the east wall.  What would happen to something lightweight in the room while the fan is on?
+
+Platform/Experiment: Put different objects on the platform and play around with the different transformation matrix settings.  
+Read the presentation slides in the seminar room for some background.  Note that the only objects that can be permanently transformed are those made of lead.
+
+Locked Door: One thing you can do with the transformation matrix prototype is to make things two-dimensional.
+According to the presentation slides, the numbers in the first row of the transformation matrix determine the x coordinate of the transformed object.
+So setting all three sliders to 0 would force the transformed object to have no x dimension.  It would thus be two-dimensional.  
+(Actually, just setting the second slider to 0 is sufficient, but the mathematics behind why that's sufficient is more complicated.  For those who are interested, setting the second slider to 0 is enough to make the determinant of the transformation matrix 0.)
+Something 2D would fit under the door.
+You can even make yourself 2D!  However, if you're 2D there's no way to move yourself under the door before you transform back to 3D. 
+However, if you've played with the fan you'll notice that it will blow thin, lightweight items under the door.  Turn on the fan.
+Stand on the platform and set the second slider to 0.  The breeze will blow you under the door.
+Get Finite-Dimensional Vector Spaces.
+Examine the desk.  Open the drawer and get the spare key.  Unlock the door and leave.
+
+
+LYCEUM AREA (on first level)
+
+Achilles: Give the limit shoes to poor Achilles so that he can finally beat the tortoise.  Get and read the papyrus scroll that Aristotle dropped.
+
+
+FOURTH LEVEL, SECOND PASS
+
+
+MACHINE ROOM, REDUX
+
+Once you have the limit shoes from Weierstrass you can wear them to use the golden path to go to the limit of the corresponding sequence or series.
+The only new places you can go to are Infinity (there are several ways to do this) and Irrational, Between 0 and 1 (which isn't necessary to win the game).
+The easiest way to go to Infinity is to turn the dial to "Identity" and leave the other initial settings alone.  
+
+
+INFINITY AREA
+
+Nothingness: This is the largest integer.  It has no numerical value, though.  What should the value of the largest integer be?
+
+Ramanujan: Greet him.  Then enter the glass booth and press the crystal button, taking you to the Grand Hotel.
+
+Clerk: Greet him.  He's got an infinite number of people trying to enter his hotel, but he can only make one new room available at a time.
+He needs a way to make an infinite number of rooms available all at once.  Go down to return to Infinity.
+
+Talk to Ramanujan, who wants you to go back to the machine room and find a way to just barely reach Infinity.
+
+To leave Infinity, enter the glass booth and press the clear button.  The multiplicative inverse of Infinity isn't really defined, but if it means anything it must mean 0.
+So doing this takes you to Zero.
+
+
+MACHINE ROOM, AGAIN
+
+Play around with the machine settings.  There is one that (if you experimented with the machine room before acquiring the limit shoes) rises gradually, 
+but you can't tell whether it levels out.  This is the one you want.  The settings are "Series" and "Reciprocal," with the alternating button off.  
+This is the harmonic series, which barely diverges (goes to infinity).  Go south from the machine room with these settings, wearing the limit shoes.
+
+
+INFINITY, REDUX
+
+Ramanujan will now tell you that the clerk needs to DOUBLE, not INCREMENT.  Return to the Grand Hotel via the crystal button, and SAY DOUBLE TO CLERK.
+This will work beautifully, and you can now go west.  Get the brass rod.  Look at it.  Where have you seen something that the brass rod might fit?
+
+
+WINDOW INTO OBLIVION, REDUX
+
+The largest integer doesn't actually exist, which should cause something interesting to happen if you place it on the tray here.  Sure enough, Hypatia appears.
+Ask her about Descartes, who clearly doesn't belong here.  Hypatia sets you to solving this mystery.
+
+Descartes: Descartes's saying is "I think, therefore I am." (Look up Descartes in the math book or show the saying to Hypatia to see the translation of Cogito Ergo Sum.)
+The last line of Descartes's correspondence with Fermat is "I think not."  It looks like one of Hypatia's imps concluded "Therefore, I am not" and consigned Descartes to
+Oblivion.  Show the saying and the correspondence to Hypatia.  Since the imp committed the fallacy of denying the antecedent, show Hypatia the papyrus scroll you 
+acquired from Aristotle.  She will reward you with a small crank, which is made of lead!
+
+Make sure you go back and check on Descartes.  He will have left you a copy of his La Geometrie.
+
+
+FOURTH LEVEL, THIRD PASS (and back to first and second levels)
+
+
+ZORK AREA, REDUX (on the second level)
+
+The crank from Hypatia might get the mailbox open, but the threads are oriented in the wrong direction.
+
+
+MACHINE ROOM, YET AGAIN
+
+The brass rod fits nicely into the circular hole.  Look up Riemann Rearrangement Theorem in your math book.  This will tell you that the brass rod setting will only
+work for what's called a "conditionally convergent infinite series."  If you look up "conditionally convergent infinite series" you'll see that this is an infinite series
+with positive and negative terms that converges.  However, if you make all its negative terms positive, the series doesn't converge.  
+The only conditionally convergent infinite series you can create with the machine is the alternating harmonic series.  
+The settings are you need are "Series" and "Reciprocal," the Alternate button pushed on, and the brass rod in the hole.  Go south wearing the limit shoes.
+
+
+69,105
+
+This room is an interactive fiction joke/reference, but there's a puzzle going on here, too.  Count the leaves.  Who would be interested in a huge, huge pile of leaves?
+
+To leave this room, EXTRACT.  The word echoes in the finite but large space, causing the square root to EXTRACT several times.
+It takes five operations of the square root (but only one action by you, thanks to the echo) to take you to Irrational, Between 1 and 2.
+
+
+CASTLE, YET AGAIN (on the first level)
+
+Give the leaves to the bored Count.  He will reward you with Liber Abaci.
+
+
+RESEARCH LAB, REDUX
+
+You've now got something made of lead.  Put the crank from Hypatia onto the platform.  According to the fourth page of the presentation slides, 
+swapping where the 1's appear in an identity matrix will create a transformation matrix that reverses an object's orientation.  
+Move the second slider to 1 and push the button, keeping the first and third sliders at 0.  This will change the orientation of the crank.
+If you mess up the crank you can return it to Hypatia.  There is no end to the number of cranks out there!
+
+
+ZORK AREA, AGAIN
+
+Mailbox: Insert the reoriented crank into the mailbox and turn it.  Open the package and get The Art of Computer Programming.
+
+Bookcase: You should have all twelve math books now, not counting your math textbook. Once they're all in the bookshelf a copy of Fractals will appear.
+
+Fractals: Open Fractals.  Put it back on the shelf to get a hint for what to do with it, or look up fractals in your math book.
+Fractals can often be created by iterating points in the complex plane.  Open Fractals anywhere you can see the complex plane, and enjoy having won the game!
+
+
+QUOTATIONS
+
+"Euclid alone has looked on beauty bare" is by Edna St. Vincent Millay.
+The quote likening mathematics to a blind man in a dark room has been attributed to Darwin, but it's questionable whether he actually said that.
+The poem about infinite series is by, believe it or not, mathematician Jakob Bernoulli.
+"Tell all the truth but tell it slant" is by Emily Dickinson.
+The poem in Italian you hear after creating the fractal is selections from Dante's Paradiso, Canto XXXIII, as Dante is approaching his final vision of God.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
